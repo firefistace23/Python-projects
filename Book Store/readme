@@ -1,0 +1,9 @@
+Simple Bookstore Managing Desktop App.(For Windows)
+---------------------------------------------------
+This project has 3 files associated :
+
+1.booksdb   --It is a SQLite database file storing the title author and price of books in store.Can be viewed using SQLiteStudio.
+2.bookstore --Actual application used to search the database for books and calculate total price.
+3.bookadd   --Supporting application to help enter data into the database easily.It is directly accessible from bookstore app.
+
+To run the app double click on bookstore which is an executable python file.
